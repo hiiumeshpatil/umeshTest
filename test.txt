@@ -1,1 +1,5 @@
-hii umesh patil welcome in git hub patils 
+var getName=function(){
+
+return "hello umesh ";
+}
+console.log(getName);
